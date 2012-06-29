@@ -15,7 +15,7 @@ How to go about contributing
 
 Use [Issues](https://github.com/euruko2013/general/issues) to post suggestions and volunteer for tasks.
 
-Periodically we will request proposals for some things. You should use post a pull request with your proposal and the pull request discussion board will be where we vote and discuss the proposal (yes, yes this is not our idea, kudos to the Euruko 2012 for staging the CFPs this way)
+Periodically we will request proposals for some things. You should post a pull request with your proposal and the pull request discussion board will be where we vote and discuss the proposal (yes, yes this is not our idea, kudos to the Euruko 2012 for staging the CFPs this way)
 
 Rules and Guidelines.
 ========
