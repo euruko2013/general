@@ -8,7 +8,7 @@ Organisation
 
 EuRuKo2013 has 2 GitHub repositories. This one is public and will be used by the community as a whole for suggestions, proposals and offers of help.
 
-The private repository is available to the committee members and is private only because we want to have some surprises in store for EuRuKo 2013 attendees. However, for the sake of transparency we will make the private repository public on the first day of the conference so that everyone may review all issues raised during the organising of EuRuKo 2013 (and make fun us :-).
+The private repository is available to the committee members and is private only because we want to have some surprises in store for EuRuKo 2013 attendees. However, for the sake of transparency we will make the private repository public on the first day of the conference so that everyone may review all issues raised during the organising of EuRuKo 2013 (and make fun of us :-).
 
 How to go about contributing
 ========
